@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
 
-images:{domains: ["images.unsplash.com", "https://tomaslonnblad.github.io/",
+images:{domains: ["images: remotePatterns", "https://tomaslonnblad.github.io/",
 // images.unsplash.com 
 
 //  images: {
